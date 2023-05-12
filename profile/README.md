@@ -1,5 +1,6 @@
 ## Welcome to Indeed repository 👋
 
+Get to know [us](http://indeed.user.jacobs-university.de/student-theses/)! 😀
 <!--
 
 **Here are some ideas to get you started:**
