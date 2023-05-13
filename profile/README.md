@@ -1,4 +1,4 @@
-## Welcome to Indeed repository 👋
+## Welcome to INDEED repository 👋
 
 Get to know [us](http://indeed.user.jacobs-university.de/student-theses/)! 😀
 <!--
